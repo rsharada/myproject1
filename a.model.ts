@@ -1,1 +1,1 @@
-this is a typescript file
+this is a model file
